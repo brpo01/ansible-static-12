@@ -1,5 +1,5 @@
 # ANSIBLE REFACTORING AND STATIC ASSIGNMENTS (IMPORTS AND ROLES)
-Ansible Imports &amp; Roles for configuring target servers. Check [ansible-static-12](https://github.com/brpo01/ansible-static-12/blob/master/ansible-static-12.md) for documentation.
+>Ansible Imports &amp; Roles for configuring target servers. Check [ansible-static-12](https://github.com/brpo01/ansible-static-12/blob/master/ansible-static-12.md) for documentation.
 
 The reference architecture is shown below:
 
